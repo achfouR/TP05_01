@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP 1410</string>
+    <string name="filmes_favoritos">Meus filmes favoritos</string>
+    <string name="nome_filme">Nome do filme</string>
+    <string name="nota_hint">Nota (0 a 10)</string>
+    <string name="foto_hint">URL da foto (https://…)</string>
+    <string name="adicionar_filme">Adicionar filme</string>
+    <string name="salvar_alteracoes">Salvar alterações</string>
+    <string name="cancelar_edicao">Cancelar edição</string>
+    <string name="editar">Editar</string>
+    <string name="filme_salvo">Filme salvo!</string>
+    <string name="lista_vazia">Nenhum favorito ainda. Adicione seu primeiro filme acima.</string>
+    <string name="nota_filme">Nota: %1$.1f / 10</string>
+    <string name="foto_filme">Foto de %1$s</string>
+</resources>
